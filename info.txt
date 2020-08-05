@@ -1,0 +1,19 @@
+layout
+
+is the spine of the website
+
+it is build by the component
+
+and is the only one that will be shown in the index html
+
+all the rest will be inside the layout
+
+tsx=type scrip extended = means to write in type script and html
+
+export means that u will be able to use outside of the
+
+render =תרגם
+
+componnent is the name o
+
+npm i = in order to open the files that he sends
